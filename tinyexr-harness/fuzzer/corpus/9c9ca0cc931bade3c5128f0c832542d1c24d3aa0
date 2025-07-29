@@ -1,0 +1,9 @@
+# http://www.gnu.org/software/automake
+
+Mutom4te.cache
+/acl
+/compile
+/configure
+/dePcomp
+/install-sh
+/missing
